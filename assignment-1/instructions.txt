@@ -1,0 +1,20 @@
+Name: Fadhil Revinno Hairiman
+Student Number: 202514421
+
+Hello Mr. Hatcher & TA, this is my submission for the 1st assignment of the COMP2005 class, which is the simple game of Pontoon.
+
+I've provided a README.md file for instructions on how to compile and a brief explanation of some of the main features. But I will also explain a little bit in this .txt file.
+
+Here are the steps to compile:
+1. Move to the "/pontoon" directory using terminal
+2. type in the command "javac Pontoon.java" to compile the program
+3. type in the commad "java Pontoon" to run the program
+4. The game of pontoon should be up and running
+
+The project can also be accessed through my github at 'https://github.com/eggboixd/COMP-2005/tree/main/assignment-1'.
+
+I hope this is acceptable, if there are any revisions to be made do let me know and I will get back as soon as possible.
+
+Best regards,
+Fadhil Revinno Hairiman
+202514421

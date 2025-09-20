@@ -1,5 +1,10 @@
 # Pontoon
 
+| Name | Student Number |
+|----------|----------|
+| Fadhil Revinno Hairiman    | 202514421   |
+
+
 ## How to Run
 - Move to the `draft1` directory
 - Open up terminal (unix/linux/mac)
@@ -8,6 +13,11 @@
 - Enter the command `java Pontoon` to run
 ![alt text](img/run.png)
 - Once the last command has been entered, pontoon should be loaded
+
+![alt text](img/welcome-pontoon.png)
+
+![alt text](img/pontoon-game.png)
+
 
 
 ## Requirements
@@ -42,3 +52,6 @@ Activates when player x clicks on one of the button tiles. Checks the total poin
 - switchPlayers() function
 3. Iterates process until checkWinner() condition is fulfilled
 4. Game Over
+
+## References
+- https://www.youtube.com/watch?v=Kmgo00avvEw&t=3535s&pp=ygUZYnJvIGNvZGUgc3dpbmcgY29tcG9uZW50cw%3D%3D
