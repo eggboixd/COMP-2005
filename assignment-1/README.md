@@ -6,7 +6,7 @@
 
 
 ## How to Run
-- Move to the `draft1` directory
+- Move to the `pontoon` directory
 - Open up terminal (unix/linux/mac)
 - Enter the command `javac Pontoon.java` to compile 
 ![alt text](img/compile.png)
