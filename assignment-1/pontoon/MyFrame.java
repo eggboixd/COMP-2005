@@ -63,7 +63,9 @@ public class MyFrame extends JFrame{
         System.out.println("New Game Started!");
         globalPoints = 0;
         gameOver = false;
-        currentPlayer = player1;
+        Random rand = new Random();
+        currentPlayer = rand.nextBoolean() ? player1 : player2;
+        // currentPlayer = player1;
         player1.winStatus = false;
         player2.winStatus = false;
         pointsLabel.setText("Points: 0");
@@ -97,7 +99,9 @@ public class MyFrame extends JFrame{
     public MyFrame() {
         player1 = new Player(1);
         player2 = new Player(2);
-        currentPlayer = player1;
+        
+        Random rand = new Random();
+        currentPlayer = rand.nextBoolean() ? player1 : player2;
         
         setTitle("Pontoon Game");
         setSize(500, 500);
